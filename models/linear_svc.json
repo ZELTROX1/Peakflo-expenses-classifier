@@ -1,0 +1,13 @@
+{
+  "model": "LinearSVC",
+  "target": "accountName",
+  "features": [
+    "text",
+    "vendorId",
+    "log_amount",
+    "is_neg"
+  ],
+  "test_accuracy": 0.8836,
+  "sklearn_version": "1.9.1",
+  "saved_on": "2026-10-11"
+}
